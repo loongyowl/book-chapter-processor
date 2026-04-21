@@ -116,7 +116,7 @@ npm run preview
 
 ## 文件结构
 
-`
+```
 book-chapter-processor/
 ├── SKILL.md                # 本文档
 ├── package.json            # 依赖配置
@@ -132,7 +132,7 @@ book-chapter-processor/
 │   ├── constants/          # 常量配置
 │   └── utils/              # 工具函数
 └── dist/                   # 构建输出
-`
+```
 
 ## 注意事项
 
