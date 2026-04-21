@@ -1,6 +1,7 @@
 # 高保真书籍章节加工器
 
 一个基于 React 的单页面应用，用于将精读的书籍片段加工成符合 Obsidian 审美的高保真 Markdown 笔记。
+
 在线使用：https://loongyowl.github.io/book-chapter-processor/
 
 ## 功能特性
